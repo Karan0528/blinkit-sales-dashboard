@@ -65,7 +65,7 @@ Based on the analysis:
 - 📍 Vadodara, Gujarat, India
 - 🎓 ITM SLS Baroda University
 - 💼 [LinkedIn](https://www.linkedin.com/in/karan-bhatt-3332b9249/)
-- 🐙 [GitHub](https://github.com/yourusername)
+- 🐙 [GitHub](https://github.com/kran0528)
 
 ---
 
